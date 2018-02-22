@@ -1,41 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/A_Introduction Topics/Getting Started.htm">
+    Link="/Content/A_Top Level Topics/Introduction.htm"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Top Level Topics/Interview.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/A_Introduction Topics/Basic Steps.htm" />
+      Link="/Content/B_Interview Topics/The Man.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/A_Introduction Topics/Whats New.htm" />
+      Link="/Content/B_Interview Topics/The Message.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B_Interview Topics/The Music.htm" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/B_Feature Topics/Features.htm">
+    Link="/Content/A_Top Level Topics/Influences.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/B_Feature Topics/Feature1.htm" />
+      Link="/Content/C_Influences Topics/Fulson.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/B_Feature Topics/Feature2.htm" />
+      Link="/Content/C_Influences Topics/James.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/B_Feature Topics/Feature3.htm" />
-  </TocEntry>
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/C_Procedure Topics/Procedures.htm">
+      Link="/Content/C_Influences Topics/Johnson.htm" />
+    <TocEntry
+      Title="T-Bone Walker"
+      Link="/Content/C_Influences Topics/Walker.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/C_Procedure Topics/Procedure1.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/C_Procedure Topics/Procedure2.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/C_Procedure Topics/Procedure3.htm" />
+      Link="/Content/C_Influences Topics/White.htm" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
@@ -50,4 +49,7 @@
       Title="[%=System.LinkedTitle%]"
       Link="/Content/D_More Information/Tips.htm" />
   </TocEntry>
+  <TocEntry
+    Title="Sources"
+    Link="/Content/D_More Information/Sources.htm"></TocEntry>
 </CatapultToc>
